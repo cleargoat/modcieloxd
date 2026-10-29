@@ -1,0 +1,8 @@
+{
+  "type": "blackholesky:event_horizon",
+  "generator": {
+    "type": "minecraft:noise",
+    "settings": "minecraft:overworld",
+    "biome_source": { "type": "minecraft:multi_noise", "preset": "minecraft:overworld" }
+  }
+}
